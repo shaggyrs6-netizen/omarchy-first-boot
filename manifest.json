@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "shaggyrs6.first-boot",
+  "name": "First Boot",
+  "version": "1.0.0",
+  "author": "Lee",
+  "description": "First PC boot today, with a local persistent reboot history",
+  "kinds": ["bar-widget"],
+  "entryPoints": {"barWidget": "BarWidget.qml"},
+  "barWidget": {"displayName": "First Boot", "category": "Time", "allowMultiple": false}
+}

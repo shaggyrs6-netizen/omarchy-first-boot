@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.bak
+*.sqlite3*
+config.json
+checkpoints.json
+*.log
+.env*
