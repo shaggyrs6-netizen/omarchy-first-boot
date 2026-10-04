@@ -1,5 +1,17 @@
 # First Boot
 
+**A small desktop reminder of when you first started the computer today.**
+
+It keeps that first time visible even if you reboot later. Hover to see today's
+boots, or click to browse the saved history. It tracks actual computer boots,
+not login sessions or waking from sleep. Everything stays on the computer.
+
+Private source backup and review repository. Code checked against the installed
+copy on 4 October 2026; personal boot records and configuration are not included.
+The shared copy uses neutral wording in place of personal text. It is not a
+marketplace release, and the original installer targets the stock Omarchy bar;
+placement in another bar should be reviewed before running it.
+
 Shows **First boot 7:01 am** immediately after the workspace numbers on the bar. Hover for every boot today. Click to open the saved history in Ghostty; press Enter to close it.
 
 The first time stays unchanged through subsequent reboots. A machine left running overnight shows **No boot today**. Suspend/wake and logging in again do not count as new boots. Times follow the machine's local timezone, including daylight saving changes. Boot time records when the PC started; it does not track other activities.
