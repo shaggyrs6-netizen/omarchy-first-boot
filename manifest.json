@@ -4,7 +4,7 @@
   "name": "First Boot",
   "version": "1.0.0",
   "author": "Lee",
-  "description": "First PC boot today, with a local persistent reboot history",
+  "description": "Today's first PC boot on your bar, with today's reboots and a persistent local history of past boots",
   "kinds": ["bar-widget"],
   "entryPoints": {"barWidget": "BarWidget.qml"},
   "barWidget": {"displayName": "First Boot", "category": "Time", "allowMultiple": false}
